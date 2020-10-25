@@ -1,0 +1,37 @@
+{
+  "name": "nightwatchjs-sauce-demo-tests",
+  "version": "1.0.0",
+  "description": "NightwatchJS sauce demo UI automation tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nightwatch",
+    "nightwatchjs",
+    "selenium",
+    "testing",
+    "webdriver",
+    "browserstack",
+    "end-to-end",
+    "automated-testing",
+    "e2e"
+  ],
+  "author": {
+    "name": "Marya Manju Induri",
+    "email": "marya.induri@gmail.com"
+  },
+  "homepage": "https://www.saucedemo.com/",
+  "license": "ISC",
+  "bugs": "github.com/maryainduri/nightwatchjs-sauce-demo-tests/issues",
+  "repository": {
+    "type": "git",
+    "url": "github.com/maryainduri/nightwatchjs-sauce-demo-tests.git"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "devDependencies": {
+    "nightwatch": "^1.5.0"
+  }
+}
